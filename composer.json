@@ -1,5 +1,5 @@
 {
-    "name": "roach-php/laravel",
+    "name": "isaacongoma/laravel",
     "description": "Laravel adapter for roach-php/core",
     "license": "MIT",
     "type": "library",
