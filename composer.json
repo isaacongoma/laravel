@@ -11,8 +11,8 @@
     ],
     "require": {
         "php": "^7.3|^7.4|^8.0",
-        "isaacongoma/core": "^dev-main",
-        "isaacongoma/laravel-package-tools": "^dev-master"
+        "isaacongoma/core": "*",
+        "isaacongoma/laravel-package-tools": "*"
     },
     "require-dev": {
         "ergebnis/composer-normalize": "^2.15",
